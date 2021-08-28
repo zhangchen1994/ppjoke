@@ -11,6 +11,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.chen.ppjoke.R
 import com.chen.ppjoke.databinding.FragmentHomeBinding
 
+
 class HomeFragment : Fragment() {
 
     private lateinit var homeViewModel: HomeViewModel
